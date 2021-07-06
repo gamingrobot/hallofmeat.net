@@ -1,46 +1,46 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
-titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title = "Hall of Meat"
+titleSeparator = ""
+titleAddition = ""
+description = "Custom servers for the Skate games"
 
-## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+# ## Open Graph
+# images = ["hallofmeat.png"]
+# ogLocale = "en_US"
+# domainTLD = "hallofmeat.net"
+# titleHome = "Hall of Meat"
 
-## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+# ## Twitter Cards
+# twitterSite = ""
+# twitterCreator = ""
 
-## JSON-LD
-# schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
-schemaSection = "blog"
+# ## JSON-LD
+# # schemaType = "Person"
+# schemaType = "Organization"
+# schemaName = "Hall of Meat"
+# schemaAuthor = ""
+# schemaAuthorTwitter = ""
+# schemaAuthorLinkedIn = ""
+# schemaAuthorGitHub = ""
+# schemaLocale = "en-US"
+# schemaLogo = "hallofmeat.png"
+# schemaLogoWidth = 512
+# schemaLogoHeight = 512
+# schemaImage = "hallofmeat.png"
+# schemaImageWidth = 1280
+# schemaImageHeight = 640
+# schemaTwitter = ""
+# schemaLinkedIn = ""
+# schemaGitHub = ""
+# schemaSection = "blog"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
 
 ## Chrome Browser
-themeColor = "#fff"
+themeColor = "#d00000"
 
 # Images
 quality = 85
@@ -50,22 +50,22 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>"
+copyRight = ""
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = ""
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/hallofmeat/hallofmeat.github.io"
 editPage = false
 
 [options]
   lazySizes = true
   clipBoard = true
   instantPage = true
-  flexSearch = true
+  flexSearch = false
   darkMode = true
   bootStrapJs = true
   breadCrumb = false
