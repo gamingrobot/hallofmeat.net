@@ -18,12 +18,12 @@ toc: false
 
 * Authentication
 
-## In Progress
+## In-Progress
 
 * Matchmaking
 * Web/Social
 
-## Todo
+## To-Do
 
 * SkateParks
 * SkateReel

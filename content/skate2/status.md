@@ -18,10 +18,10 @@ toc: false
 
 * Nothing
 
-## In Progress
+## In-Progress
 
 * Authentication
 
-## Todo
+## To-Do
 
 * Everything
